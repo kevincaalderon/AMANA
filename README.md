@@ -1,5 +1,5 @@
 # AMANA
-## A Web3 Marketplace for Feelancers
+## A Web3 Marketplace for Freelancers
 ## Post your skills, find a gig, get paid in crypto!
 
 
